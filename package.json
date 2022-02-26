@@ -1,0 +1,25 @@
+{
+  "name": "@based-edge/nearest-region-cdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit ",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14",
+    "aws-cdk": "^2.2.0",
+    "aws-sdk": "^2.1053.0",
+    "ts-node": "^9.0.0",
+    "typescript": "~3.9.7"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "^2.2.0",
+    "cdk": "^2.14.0",
+    "constructs": "^10.0.0",
+    "source-map-support": "^0.5.16"
+  }
+}
